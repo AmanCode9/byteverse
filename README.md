@@ -5,7 +5,7 @@ Welcome to **Byteverse** — a universe of bytes, code, and creativity. This rep
 
 Byteverse is a personal coding playground built to:
 
-- Explore new technologies 🌐  
+- Explore new and latest technologies 🌐  
 - Build and document cool side projects 🛠️  
 - Practice open-source collaboration 🤝  
 - Create a digital portfolio of work 📁
